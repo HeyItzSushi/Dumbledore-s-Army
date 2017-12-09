@@ -1,7 +1,6 @@
 #homepage {
 position: absolute;
 z-index: 100;
-top: 50%;
 left: 50%;
 margin: -75px 0px 0px -200px;
 }
