@@ -1,4 +1,9 @@
-  #homepageleft {
+
+body{
+  color: white;
+}
+
+#homepageleft {
   float:left;
 }
   #homepageright {
